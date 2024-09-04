@@ -21,7 +21,7 @@ repository               : "Tianyuan-ZHANG/Tianyuan-ZHANG.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-IGARSS-2017.png"
   name             : "Tianyuan ZHANG"
   pronouns         : # example: "He/his"  
   bio              : "Assistant professor of data science and business analytics"
