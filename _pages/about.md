@@ -21,22 +21,22 @@ My research focuses on data-driven decision making under uncertainty. I seek to 
 
 Selected Publication
 ------
-1. [Coupling simulation and machine learning for predictive analytics in supply chain management](https://imt-mines-albi.hal.science/hal-04562707/file/Coupling-simulation-machine-learning-predictive-analytics-supply-chain-management.pdf), _International Journal of Production Research_, 2024
-   **Tianyuan ZHANG**, Matthieu LAURAS, Gregory ZACHAREWICZ, Souad RABAH, Frederick BENABEN
-2. [Snow cover monitoring with Chinese Gaofen-4 PMS imagery and the restored snow index (RSI) method: case studies](https://www.mdpi.com/2072-4292/10/12/1871), _Remote Sensing_, 2018
-   **Tianyuan Zhang**, Huazhong Ren, Qiming Qin, Yuanheng Sun
-3. [Surface water extraction from Landsat 8 OLI imagery using the LBV transformation](https://ieeexplore.ieee.org/document/7974754), _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, 2017
-   **Tianyuan Zhang**, Huazhong Ren, Qiming Qin, Chengye Zhang, Yuanheng Sun
+1. [Coupling simulation and machine learning for predictive analytics in supply chain management](https://imt-mines-albi.hal.science/hal-04562707/file/Coupling-simulation-machine-learning-predictive-analytics-supply-chain-management.pdf), _International Journal of Production Research_, 2024<br />
+   Tianyuan ZHANG, Matthieu LAURAS, Gregory ZACHAREWICZ, Souad RABAH, Frederick BENABEN
+2. [Snow cover monitoring with Chinese Gaofen-4 PMS imagery and the restored snow index (RSI) method: case studies](https://www.mdpi.com/2072-4292/10/12/1871), _Remote Sensing_, 2018<br />
+   Tianyuan ZHANG, Huazhong REN, Qiming QIN, Yuanheng SUN
+3. [Surface water extraction from Landsat 8 OLI imagery using the LBV transformation](https://ieeexplore.ieee.org/document/7974754), _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, 2017<br />
+   Tianyuan ZHANG, Huazhong REN, Qiming QIN, Chengye ZHANG, Yuanheng SUN
 
 Education
 ------
-- **Ph.D. in Cartology & Geographic Information System**
+- Ph.D. in Cartology & Geographic Information System<br />
   Peking University (2015 - 2020)
-- **B.E. in Information Engineering (Instrument & Optoelectronic)**
+- B.E. in Information Engineering (Instrument & Optoelectronic)<br />
   Beihang University (2011 - 2015)
 
 News
 ------
-- Linda Ben Ismail starts her Ph.D. subject "Using data analytics for the design of robust supply chains" supervised by [Walid KLIBI](https://scholar.google.com/citations?hl=en&user=KHGNTUAAAAAJ) and me.
+- Linda BEN ISMAIL starts her Ph.D. subject "Using data analytics for the design of robust supply chains" supervised by [Walid KLIBI](https://scholar.google.com/citations?hl=en&user=KHGNTUAAAAAJ) and me.
 - The manuscript of my paper “Coupling simulation and machine learning for predictive analytics in supply chain management” (Joint work with Matthieu LAURAS, Gregory ZACHAREWICZ, Souad RABAH, Frederick BENABEN) is available [here](https://imt-mines-albi.hal.science/hal-04562707/file/Coupling-simulation-machine-learning-predictive-analytics-supply-chain-management.pdf).
 - I start as an Assistant Professor of data science and business analytics at KEDGE Business School.
