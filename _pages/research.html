@@ -14,11 +14,11 @@ author_profile: true
 {% assign all_pubs = site.data.publications | sort: "year" | reverse %}
 
 <h2>Selected Publications</h2><hr />
-<ul>
+<ol reversed>
 {% for pub in all_pubs %}{% if pub.selected %}{% include pub-item.html pub=pub %}{% endif %}{% endfor %}
-</ul>
+</ol>
 
 <h2>Full List of Publications</h2><hr />
-<ul>
+<ol reversed>
 {% for pub in all_pubs %}{% include pub-item.html pub=pub %}{% endfor %}
-</ul>
+</ol>

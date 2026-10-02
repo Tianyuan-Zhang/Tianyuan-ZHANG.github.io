@@ -1,6 +1,8 @@
 {% assign pub = include.pub %}
+{% assign coauthors = "" | split: "" %}
+{% assign names = pub.authors | split: ", " %}
+{% for name in names %}{% unless name == "Tianyuan Zhang" or name == "张添源" %}{% assign coauthors = coauthors | push: name %}{% endunless %}{% endfor %}
 <li class="pub-item">
-  {{ pub.authors | escape | replace: "Tianyuan Zhang", "<strong>Tianyuan Zhang</strong>" | replace: "张添源", "<strong>张添源</strong>" }}.
-  “{{ pub.title | escape }}.”
-  <em>{{ pub.venue | escape }}</em>{% if pub.detail != "" %}, {{ pub.detail }}{% endif %}, {{ pub.year }}.
+  {{ pub.title | escape }}, <strong>{{ pub.venue | escape }}</strong>, {{ pub.year }}{% if pub.url %} (<a href="{{ pub.url }}">link</a>){% endif %}
+  {% if coauthors.size > 0 %}<br>Joint with {{ coauthors | join: ", " | escape }}{% endif %}
 </li>
