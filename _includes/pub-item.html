@@ -1,0 +1,6 @@
+{% assign pub = include.pub %}
+<li class="pub-item">
+  {{ pub.authors | escape | replace: "Tianyuan Zhang", "<strong>Tianyuan Zhang</strong>" | replace: "张添源", "<strong>张添源</strong>" }}.
+  “{{ pub.title | escape }}.”
+  <em>{{ pub.venue | escape }}</em>{% if pub.detail != "" %}, {{ pub.detail }}{% endif %}, {{ pub.year }}.
+</li>

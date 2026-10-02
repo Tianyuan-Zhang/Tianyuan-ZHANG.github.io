@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+redirect_from:
+  - /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% assign all_pubs = site.data.publications | sort: "year" | reverse %}
+
+<h2>Selected Publications</h2><hr />
+<ul>
+{% for pub in all_pubs %}{% if pub.selected %}{% include pub-item.html pub=pub %}{% endif %}{% endfor %}
+</ul>
+
+<h2>Full List of Publications</h2><hr />
+<ul>
+{% for pub in all_pubs %}{% include pub-item.html pub=pub %}{% endfor %}
+</ul>
