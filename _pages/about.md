@@ -19,14 +19,14 @@ My research focuses on data-driven decision making under uncertainty. I seek to 
 - Geoinformatics
 - Simulation
 
-Selected Publication
+Selected Publications
 ------
-1. [Coupling simulation and machine learning for predictive analytics in supply chain management](https://imt-mines-albi.hal.science/hal-04562707/file/Coupling-simulation-machine-learning-predictive-analytics-supply-chain-management.pdf), _International Journal of Production Research_, 2024<br />
-   Tianyuan ZHANG, Matthieu LAURAS, Gregory ZACHAREWICZ, Souad RABAH, Frederick BENABEN
-2. [Snow cover monitoring with Chinese Gaofen-4 PMS imagery and the restored snow index (RSI) method: case studies](https://www.mdpi.com/2072-4292/10/12/1871), _Remote Sensing_, 2018<br />
-   Tianyuan ZHANG, Huazhong REN, Qiming QIN, Yuanheng SUN
-3. [Surface water extraction from Landsat 8 OLI imagery using the LBV transformation](https://ieeexplore.ieee.org/document/7974754), _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, 2017<br />
-   Tianyuan ZHANG, Huazhong REN, Qiming QIN, Chengye ZHANG, Yuanheng SUN
+{% assign all_pubs = site.data.publications | sort: "year" | reverse %}
+<ol>
+{% for pub in all_pubs %}{% if pub.selected %}{% include pub-item.html pub=pub %}{% endif %}{% endfor %}
+</ol>
+
+[Full list of publications](/research/)
 
 Education
 ------
