@@ -8,6 +8,7 @@
   year: 2026
   type: journal
   selected: true
+  url: "https://doi.org/10.1111/exsy.70204"
 
 - title: "Interactive Data–Knowledge Synergy via Guidance and Feedback for Railway Risk Decision-Making"
   authors: "Xinyi Liu, Wenxin Mu, Tianyuan Zhang, Jiayao Li, Juanqiong Gou"
@@ -16,6 +17,7 @@
   year: 2026
   type: journal
   selected: true
+  url: "https://doi.org/10.1016/j.ress.2026.112608"
 
 - title: "Unravelling Cascading Phenomena in Sociotechnical Systems: A Systematic Review and Modelling Framework"
   authors: "Jiayao Li, Alexis Evain, Clara Le Duff, Tianyuan Zhang, David Panzoli, Audrey Fertier, Benoit Montreuil, Frederick Benaben"
@@ -24,22 +26,25 @@
   year: 2026
   type: journal
   selected: true
+  url: "https://doi.org/10.1002/sres.70086"
 
-- title: "A leaf chlorophyll vegetation index with reduced LAI effect based on Sentinel-2 multispectral red-edge information"
+- title: "A Leaf Chlorophyll Vegetation Index with Reduced LAI Effect based on Sentinel-2 Multispectral Red-Edge Information"
   authors: "Yuanheng Sun, Qiming Qin, Yao Zhang, Huazhong Ren, Guhuai Han, Zhaoxu Zhang, Tianyuan Zhang, Binyu Wang"
   venue: "Computers and Electronics in Agriculture"
   detail: "236: 110500"
   year: 2025
   type: journal
   selected: false
+  url: "https://doi.org/10.1016/j.compag.2025.110500"
 
-- title: "Coupling simulation and machine learning for predictive analytics in supply chain management"
+- title: "Coupling Simulation and Machine Learning for Predictive Analytics in Supply Chain Management"
   authors: "Tianyuan Zhang, Matthieu Lauras, Gregory Zacharewicz, Souad Rabah, Frederick Benaben"
   venue: "International Journal of Production Research"
   detail: "62(23): 8397–8414"
   year: 2024
   type: journal
   selected: true
+  url: "https://doi.org/10.1080/00207543.2024.2342019"
 
 - title: "Simulation-based Assessment of Hyperconnected Humanitarian Supply Chains Response Readiness"
   authors: "Tianyuan Zhang, Manon Grest, Souad Rabah, Gregory Zacharewicz, Frederick Benaben, Matthieu Lauras"
@@ -48,70 +53,79 @@
   year: 2023
   type: conference
   selected: false
+  url: "https://doi.org/10.24251/HICSS.2023.056"
 
-- title: "A simulation framework dedicated to characterizing risks and cascading effects in collaborative networks"
+- title: "A Simulation Framework Dedicated to Characterizing Risks and Cascading Effects in Collaborative Networks"
   authors: "Tianyuan Zhang, Jiayao Li, Frederick Benaben"
   venue: "Working Conference on Virtual Enterprises"
   detail: "463–474"
   year: 2022
   type: conference
   selected: false
+  url: "https://doi.org/10.1007/978-3-031-14844-6_37"
 
-- title: "Optical and thermal remote sensing for monitoring agricultural drought"
+- title: "Optical and Thermal Remote Sensing for Monitoring Agricultural Drought"
   authors: "Qiming Qin, Zihua Wu, Tianyuan Zhang, Vasit Sagan, Zhaoxu Zhang, Yao Zhang, Chengye Zhang, Huazhong Ren, Yuanheng Sun, Wei Xu, et al."
   venue: "Remote Sensing"
   detail: "13(24): 5092"
   year: 2021
   type: journal
   selected: false
+  url: "https://doi.org/10.3390/rs13245092"
 
-- title: "Development of farmland drought remote sensing dynamic monitoring system based on Android"
+- title: "Development of Farmland Drought Remote Sensing Dynamic Monitoring System based on Android"
   authors: "Zehao Long, Tianyuan Zhang, Wei Xu, Qiming Qin"
   venue: "Remote Sensing for Natural Resources"
   detail: "33(2): 256"
   year: 2021
   type: journal
   selected: false
+  url: "https://doi.org/10.6046/gtzyyg.2020160"
 
-- title: "Transfer-learning-based approach for leaf chlorophyll content estimation of winter wheat from hyperspectral data"
+- title: "Transfer-learning-based Approach for Leaf Chlorophyll Content Estimation of Winter Wheat from Hyperspectral Data"
   authors: "Yao Zhang, Jian Hui, Qiming Qin, Yuanheng Sun, Tianyuan Zhang, Hong Sun, Minzan Li"
   venue: "Remote Sensing of Environment"
   detail: "267: 112724"
   year: 2021
   type: journal
   selected: false
+  url: "https://doi.org/10.1016/j.rse.2021.112724"
 
-- title: "基于长短期记忆网络的冬小麦连续时序叶面积指数预测"
-  authors: "龙泽昊, 秦其明, 张添源, 许伟"
-  venue: "光谱学与光谱分析"
+- title: "Prediction of Continuous Time Series Leaf Area Index based on Long Short-Term Memory Network: A Case Study of Winter Wheat"
+  authors: "Zehao Long, Qiming Qin, Tianyuan Zhang, Wei Xu"
+  venue: "Spectroscopy and Spectral Analysis"
   detail: "40(3): 898–904"
   year: 2020
   type: journal
   selected: false
+  url: "https://doi.org/10.3964/j.issn.1000-0593(2020)03-0898-07"
 
-- title: "Spectral characteristics of copper-stressed vegetation leaves and further understanding of the copper stress vegetation index"
+- title: "Spectral Characteristics of Copper-Stressed Vegetation Leaves and Further Understanding of the Copper Stress Vegetation Index"
   authors: "Chengye Zhang, Huazhong Ren, Xiujuan Dai, Qiming Qin, Jun Li, Tianyuan Zhang, Yuanheng Sun"
   venue: "International Journal of Remote Sensing"
   detail: "40(12): 4473–4488"
   year: 2019
   type: journal
   selected: false
+  url: "https://doi.org/10.1080/01431161.2018.1563842"
 
-- title: "Assessment of the application of copper stress vegetation index on Hyperion image in Dexing Copper Mine, China"
+- title: "Assessment of the Application of Copper Stress Vegetation Index on Hyperion Image in Dexing Copper Mine, China"
   authors: "Chengye Zhang, Huazhong Ren, Ziyi Huang, Jun Li, Qiming Qin, Tianyuan Zhang, Yuanheng Sun"
   venue: "Journal of Applied Remote Sensing"
   detail: "13(1): 014511"
   year: 2019
   type: journal
   selected: false
+  url: "https://doi.org/10.1117/1.JRS.13.014511"
 
-- title: "Red-edge band vegetation indices for leaf area index estimation from Sentinel-2/MSI imagery"
+- title: "Red-Edge Band Vegetation Indices for Leaf Area Index Estimation from Sentinel-2/MSI Imagery"
   authors: "Yuanheng Sun, Qiming Qin, Huazhong Ren, Tianyuan Zhang, Shanshan Chen"
   venue: "IEEE Transactions on Geoscience and Remote Sensing"
   detail: "58(2): 826–840"
   year: 2019
   type: journal
   selected: false
+  url: "https://doi.org/10.1109/TGRS.2019.2940826"
 
 - title: "Retrieval of Leaf Nitrogen Concentration in Winter Wheat Using Red Edge Band and Artificial Neural Network"
   authors: "Tianyuan Zhang, Qiming Qin, Juan Sui, Yao Zhang, Cong Zhao"
@@ -120,152 +134,162 @@
   year: 2019
   type: conference
   selected: false
+  url: "https://doi.org/10.1109/IGARSS.2019.8898707"
 
-- title: "Times-series LAI simulation of winter wheat based on WOFOST model calibrated by SCE and assimilated by EnKF"
+- title: "Times-Series LAI Simulation of Winter Wheat based on WOFOST Model Calibrated by SCE and Assimilated by EnKF"
   authors: "Wei Xu, Qiming Qin, Tianyuan Zhang, Zehao Long"
   venue: "Transactions of the Chinese Society of Agricultural Engineering"
   detail: "35(14): 166–173"
   year: 2019
   type: journal
   selected: false
+  url: "https://dx.doi.org/10.11975/j.issn.1002-6819.2019.14.021"
 
-- title: "Winter wheat production estimation based on environmental stress factors from satellite observations"
+- title: "Winter Wheat Production Estimation based on Environmental Stress Factors from Satellite Observations"
   authors: "Juan Sui, Qiming Qin, Huazhong Ren, Yuanheng Sun, Tianyuan Zhang, Jiandong Wang, Shihong Gong"
   venue: "Remote Sensing"
   detail: "10(6): 962"
   year: 2018
   type: journal
   selected: false
+  url: "https://doi.org/10.3390/rs10060962"
 
-- title: "Crop leaf area index retrieval based on inverted difference vegetation index and NDVI"
+- title: "Crop Leaf Area Index Retrieval based on Inverted Difference Vegetation Index and NDVI"
   authors: "Yuanheng Sun, Huazhong Ren, Tianyuan Zhang, Chengye Zhang, Qiming Qin"
   venue: "IEEE Geoscience and Remote Sensing Letters"
   detail: "15(11): 1662–1666"
   year: 2018
   type: journal
   selected: false
+  url: "https://doi.org/10.1109/LGRS.2018.2856765"
 
-- title: "A modified ratio vegetation index: A novel method for remote estimation of leaf chlorophyll content for winter wheat"
+- title: "A Modified Ratio Vegetation Index: A Novel Method for Remote Estimation of Leaf Chlorophyll Content for Winter Wheat"
   authors: "Juan Sui, Qiming Qin, Huazhong Ren, Yuanheng Sun, Hui Yuan, Tianyuan Zhang"
   venue: "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium"
   detail: "7354–7357"
   year: 2018
   type: conference
   selected: false
+  url: "https://doi.org/10.1109/IGARSS.2018.8517909"
 
-- title: "Optimization of spectral indices for the estimation of leaf area index based on Sentinel-2 multispectral imagery"
+- title: "Optimization of Spectral Indices for the Estimation of Leaf Area Index based on Sentinel-2 Multispectral Imagery"
   authors: "Zihao Wang, Yuanheng Sun, Tianyuan Zhang, Huazhong Ren, Qiming Qin"
   venue: "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium"
   detail: "5441–5444"
   year: 2018
   type: conference
   selected: false
+  url: "https://doi.org/10.1109/IGARSS.2018.8517747"
 
-- title: "Snow cover monitoring with Chinese Gaofen-4 PMS imagery and the restored snow index (RSI) method: case studies"
+- title: "Snow Cover Monitoring with Chinese Gaofen-4 PMS Imagery and the Restored Snow Index (RSI) Method: Case Studies"
   authors: "Tianyuan Zhang, Huazhong Ren, Qiming Qin, Yuanheng Sun"
   venue: "Remote Sensing"
   detail: "10(12): 1871"
   year: 2018
   type: journal
   selected: false
+  url: "https://doi.org/10.3390/rs10121871"
 
-- title: "Optimal hyperspectral characteristics determination for winter wheat yield prediction"
+- title: "Optimal Hyperspectral Characteristics Determination for Winter Wheat Yield Prediction"
   authors: "Yao Zhang, Qiming Qin, Huazhong Ren, Yuanheng Sun, Minzan Li, Tianyuan Zhang, Shilong Ren"
   venue: "Remote Sensing"
   detail: "10(12): 2015"
   year: 2018
   type: journal
   selected: false
+  url: "https://doi.org/10.3390/rs10122015"
 
-- title: "基于 BP 神经网络的地表温度空间降尺度方法"
-  authors: "汪子豪, 秦其明, 孙元亨"
-  venue: "遥感技术与应用"
+- title: "Downscaling of Remotely Sensed Land Surface Temperature with the BP Neural Network"
+  authors: "Zihao Wang, Qiming Qin, Yuanheng Sun, Tianyuan Zhang, Huazhong Ren"
+  venue: "Remote Sensing Technology and Application"
   detail: "33(5): 793–802"
   year: 2018
   type: journal
   selected: false
+  url: "https://doi.org/10.11873/j.issn.1004-0323.2018.5.0793"
 
-- title: "高分四号卫星植被参数反演系统与应用"
-  authors: "秦其明, 孙元亨, 张添源, 聂娟, 刘明"
-  venue: "卫星应用"
-  detail: "(12): 38–42"
-  year: 2018
-  type: journal
-  selected: false
-
-- title: "Surface water extraction from Landsat 8 OLI imagery using the LBV transformation"
+- title: "Surface Water Extraction from Landsat 8 OLI Imagery using the LBV Transformation"
   authors: "Tianyuan Zhang, Huazhong Ren, Qiming Qin, Chengye Zhang, Yuanheng Sun"
   venue: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
   detail: "10(10): 4417–4429"
   year: 2017
   type: journal
   selected: false
+  url: "https://doi.org/10.1109/JSTARS.2017.2719029"
 
-- title: "Endmember extraction from hyperspectral image based on discrete firefly algorithm (EE-DFA)"
+- title: "Endmember Extraction from Hyperspectral Image based on Discrete Firefly Algorithm (EE-DFA)"
   authors: "Chengye Zhang, Qiming Qin, Tianyuan Zhang, Yuanheng Sun, Chao Chen"
   venue: "ISPRS Journal of Photogrammetry and Remote Sensing"
   detail: "126: 108–119"
   year: 2017
   type: journal
   selected: false
+  url: "https://doi.org/10.1016/j.isprsjprs.2017.02.005"
 
-- title: "The estimation and validation of fractional vegetation cover based on GaoFen-4 satellite imagery"
+- title: "The Estimation and Validation of Fractional Vegetation Cover based on GaoFen-4 Satellite Imagery"
   authors: "Yuanheng Sun, Huazhong Ren, Gongqi Zhou, Tianyuan Zhang, Chengye Zhang, Qiming Qin"
   venue: "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
   detail: "3495–3498"
   year: 2017
   type: conference
   selected: false
+  url: "https://doi.org/10.1109/IGARSS.2017.8127751"
 
-- title: "A novel LAI retrieval method based on the combination of 2 vegetation indexes"
+- title: "A Novel LAI Retrieval Method based on the Combination of 2 Vegetation Indexes"
   authors: "Yuanheng Sun, Huazhong Ren, Tianyuan Zhang, Juan Sui, Zihao Wang, Qiming Qin"
   venue: "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
   detail: "5430–5433"
   year: 2017
   type: conference
   selected: false
+  url: "https://doi.org/10.1109/IGARSS.2017.8128232"
 
-- title: "A modified method to prevent false minimums occurring in iterative spectrally smooth temperature emissivity separation"
+- title: "A Modified Method to Prevent False Minimums Occurring in Iterative Spectrally Smooth Temperature Emissivity Separation"
   authors: "Zihua Wu, Huazhong Ren, Tianyuan Zhang, Qiming Qin, Jiaji Dong, Xin Ye"
   venue: "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
   detail: "6170–6173"
   year: 2017
   type: conference
   selected: false
+  url: "https://doi.org/10.1109/IGARSS.2017.8128417"
 
-- title: "Simultaneous retrieval of leaf area index and fractional canopy cover using SAIL model and PSO algorithm"
+- title: "Simultaneous Retrieval of Leaf Area Index and Fractional Canopy Cover using SAIL Model and PSO Algorithm"
   authors: "Tianyuan Zhang, Huazhong Ren, Yuanheng Sun, Chengye Zhang, Qiming Qin"
   venue: "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
   detail: "5446–5449"
   year: 2017
   type: conference
   selected: false
+  url: "https://doi.org/10.1109/IGARSS.2017.8128236"
 
-- title: "Emissivity image simulation for thermal infrared bands on Gaofen-5 using airborne hyperspectral data"
+- title: "Emissivity Image Simulation for Thermal Infrared Bands on Gaofen-5 using Airborne Hyperspectral Data"
   authors: "Yao Liu, Na Li, Huazhong Ren, Tianyuan Zhang"
   venue: "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
   detail: "2093–2096"
   year: 2017
   type: conference
   selected: false
+  url: "https://doi.org/10.1109/IGARSS.2017.8127395"
 
-- title: "Consistency analysis of surface reflectance and NDVI between GF-4/PMS and GF-1/WFV"
+- title: "Consistency Analysis of Surface Reflectance and NDVI between GF-4/PMS and GF-1/WFV"
   authors: "Yuanheng Sun, Qiming Qin, Huazhong Ren, Tianyuan Zhang"
   venue: "Transactions of the Chinese Society of Agricultural Engineering"
   detail: "33(9): 167–173"
   year: 2017
   type: journal
   selected: false
+  url: "https://doi.org/10.11975/j.issn.1002-6819.2017.09.021"
 
-- title: "Evaluating the capacity of GF-4 satellite data for estimating fractional vegetation cover"
+- title: "Evaluating the Capacity of GF-4 Satellite Data for Estimating Fractional Vegetation Cover"
   authors: "Chengye Zhang, Qiming Qin, Huazhong Ren, Tianyuan Zhang, Yuanheng Sun"
   venue: "AGU Fall Meeting Abstracts"
   detail: "2016: B43A–0550"
   year: 2016
   type: conference
   selected: false
+  url: "https://ui.adsabs.harvard.edu/abs/2016AGUFM.B43A0550Z/abstract"
 
-- title: "Construction and inversion of the snow index"
+- title: "Construction and Inversion of the Snow Index"
   authors: "Tianyuan Zhang"
   venue: "Remote Sensing Parameters Inversion of the Gaofen-4 Satellite"
   detail: "Higher Education Press, pp. 211–227 (in Chinese, ISBN: 978-7-04-056209-5)"
@@ -273,7 +297,7 @@
   type: book_chapter
   selected: false
 
-- title: "Construction and inversion of the water index"
+- title: "Construction and Inversion of the Water Index"
   authors: "Tianyuan Zhang"
   venue: "Remote Sensing Parameters Inversion of the Gaofen-4 Satellite"
   detail: "Higher Education Press, pp. 196–210 (in Chinese, ISBN: 978-7-04-056209-5)"
@@ -281,7 +305,7 @@
   type: book_chapter
   selected: false
 
-- title: "Dynamic monitoring of winter wheat growth process based on data assimilation"
+- title: "Dynamic Monitoring of Winter Wheat Growth Process based on Data Assimilation"
   authors: "Tianyuan Zhang"
   venue: "Quantitative Remote Sensing of Agricultural Fields: Theories, Methods and Applications"
   detail: "Chinese Science Publishing & Media, pp. 367–394 (in Chinese, ISBN: 978-7-03-056341-5)"
@@ -289,7 +313,7 @@
   type: book_chapter
   selected: false
 
-- title: "Data assimilation for monitoring ecological processes in agricultural fields"
+- title: "Data Assimilation for Monitoring Ecological Processes in Agricultural Fields"
   authors: "Tianyuan Zhang"
   venue: "Quantitative Remote Sensing of Agricultural Fields: Theories, Methods and Applications"
   detail: "Chinese Science Publishing & Media, pp. 333–366 (in Chinese, ISBN: 978-7-03-056341-5)"
