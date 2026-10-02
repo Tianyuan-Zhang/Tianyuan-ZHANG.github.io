@@ -14,11 +14,23 @@ author_profile: true
 {% assign all_pubs = site.data.publications | sort: "year" | reverse %}
 
 <h2>Selected Publications</h2><hr />
-<ol reversed>
+<ol>
 {% for pub in all_pubs %}{% if pub.selected %}{% include pub-item.html pub=pub %}{% endif %}{% endfor %}
 </ol>
 
 <h2>Full List of Publications</h2><hr />
-<ol reversed>
-{% for pub in all_pubs %}{% include pub-item.html pub=pub %}{% endfor %}
+
+<h3>Journal Articles</h3>
+<ol>
+{% for pub in all_pubs %}{% if pub.type == "journal" %}{% include pub-item.html pub=pub %}{% endif %}{% endfor %}
+</ol>
+
+<h3>Conference Papers</h3>
+<ol>
+{% for pub in all_pubs %}{% if pub.type == "conference" %}{% include pub-item.html pub=pub %}{% endif %}{% endfor %}
+</ol>
+
+<h3>Book Chapters</h3>
+<ol>
+{% for pub in all_pubs %}{% if pub.type == "book_chapter" %}{% include pub-item.html pub=pub %}{% endif %}{% endfor %}
 </ol>

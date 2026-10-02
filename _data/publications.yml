@@ -264,3 +264,35 @@
   year: 2016
   type: conference
   selected: false
+
+- title: "Construction and inversion of the snow index"
+  authors: "Tianyuan Zhang"
+  venue: "Remote Sensing Parameters Inversion of the Gaofen-4 Satellite"
+  detail: "Higher Education Press, pp. 211–227 (in Chinese, ISBN: 978-7-04-056209-5)"
+  year: 2021
+  type: book_chapter
+  selected: false
+
+- title: "Construction and inversion of the water index"
+  authors: "Tianyuan Zhang"
+  venue: "Remote Sensing Parameters Inversion of the Gaofen-4 Satellite"
+  detail: "Higher Education Press, pp. 196–210 (in Chinese, ISBN: 978-7-04-056209-5)"
+  year: 2021
+  type: book_chapter
+  selected: false
+
+- title: "Dynamic monitoring of winter wheat growth process based on data assimilation"
+  authors: "Tianyuan Zhang"
+  venue: "Quantitative Remote Sensing of Agricultural Fields: Theories, Methods and Applications"
+  detail: "Chinese Science Publishing & Media, pp. 367–394 (in Chinese, ISBN: 978-7-03-056341-5)"
+  year: 2018
+  type: book_chapter
+  selected: false
+
+- title: "Data assimilation for monitoring ecological processes in agricultural fields"
+  authors: "Tianyuan Zhang"
+  venue: "Quantitative Remote Sensing of Agricultural Fields: Theories, Methods and Applications"
+  detail: "Chinese Science Publishing & Media, pp. 333–366 (in Chinese, ISBN: 978-7-03-056341-5)"
+  year: 2018
+  type: book_chapter
+  selected: false
