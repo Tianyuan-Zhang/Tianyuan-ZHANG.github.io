@@ -14,8 +14,5 @@ main:
   - title: "Project"
     url: /project/    
     
-  - title: "Service"
-    url: /service/
-        
   - title: "Miscellaneous"
     url: /miscellaneous/
