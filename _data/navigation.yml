@@ -9,10 +9,11 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
-  - title: "Project"
-    url: /project/    
-    
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+# Hidden until the pages have content; uncomment to show them again.
+#  - title: "Project"
+#    url: /project/
+#
+#  - title: "Miscellaneous"
+#    url: /miscellaneous/
